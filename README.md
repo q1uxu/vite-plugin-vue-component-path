@@ -4,7 +4,7 @@ A vite plugin that show where the vue component path is on browser devtools.
 
 ![Screenshot](Screenshot.png)
 
-## install
+## Install
 
 ```bash
 npm i -D vite-plugin-vue-component-path
